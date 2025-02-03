@@ -14,12 +14,12 @@
 *------------------------------------------------------------------------*/
 /**
 * @file_name: test.c
-* @ver_file: 1.00
-* @commit_parent: 
-* @date_modfied: 2025-02-03 12:56:14 by INDRApbarquin
-* @author: Complete this field
+* @ver_file: 1.01
+* @commit_parent: ff4f4ff
+* @date_modfied: 2025-02-03 13:02:41 by INDRAjberrialesm
+* @author: jose.berriales@indra.es
 *
-* @brief: Complete this field
+* @brief: Fichero de prueba
 *
 * Source code of the test.c SDD component main functions.
 *------------------------------------------------------------------------*/
@@ -27,3 +27,6 @@
 #include <math.h>
 
 #archivo 1a11
+
+//Cambios Jose
+printf("Hola Mundo");
