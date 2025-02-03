@@ -5,7 +5,7 @@
 *
 * Project: Galileo M&C
 *
-* SDD Component: Complete this field
+* SDD Component: AAA
 * SW-CI: GCB422
 * Implemented Requirements: See DDD
 * Language: C
@@ -13,13 +13,13 @@
 *
 *------------------------------------------------------------------------*/
 /**
-* @file_name: test.c
-* @ver_file: 1.02
+* @file_name: relleno.c
+* @ver_file: 2.09
 * @commit_parent: 9b416d6
-* @date_modfied: 2025-02-03 13:08:40 by INDRApbarquin
-* @author: jose.berriales@indra.es
+* @date_modfied: 2025-02-03 13:08:39 by INDRApbarquin
+* @author: Pedro Barquin Ayuso
 *
-* @brief: Fichero de prueba
+* @brief: Fichero de prueba con el header manual
 *
 * Source code of the test.c SDD component main functions.
 *------------------------------------------------------------------------*/
@@ -30,4 +30,4 @@
 
 //Cambios Jose
 printf("Hola Mundo");
-printf("Hola Mdo");
+
