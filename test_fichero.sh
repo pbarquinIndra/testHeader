@@ -16,9 +16,9 @@
 #
 #
 # @file_name: test_fichero.sh
-# @ver_file: 1.00
-# @commit_parent: 5228dc9
-# @date_modfied: 2025-02-03 13:15:25 by INDRAjberrialesm
+# @ver_file: 3.01
+# @commit_parent: 75a29c7
+# @date_modfied: 2025-02-04 10:05:46 by INDRApbarquin
 # @author: Complete this field
 #
 # @brief: Complete this field
@@ -28,4 +28,8 @@
 #-------------------------------------------------------------------------
 
 
+
+cd `dirname $0`ass
+cd `dirname $0`ass
+cd `dirname $0`ass
 cd `dirname $0`ass
